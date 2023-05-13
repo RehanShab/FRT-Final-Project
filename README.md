@@ -1,12 +1,12 @@
 # Personal-Website
-- Created a personal Web site to show my skills, interest, and experienced.
+- Created a FutureReadyTalent final project Web site to show my skills, interest, and experienced.
 
 ## IDE 
-- Visual Studio Code
+- Visual Studio Code 2022
 
 ## Languages
-- HTML
 - CSS
+- HTML
 - JavaScript
 
 ## Azure Technology 
@@ -15,32 +15,31 @@
 - Static website
 
 ## Other Technology
-- App Service.
 - GitHub.
 - Github Action.
 - Github CI/CD Pipelines.
+- App Service.
 
 
 ## Screenshot-
-![Screenshot (160)](https://user-images.githubusercontent.com/126250351/227718272-0d7c0dcb-21db-4bb6-b2a1-b31a2386f10a.png)
-![Screenshot (161)](https://user-images.githubusercontent.com/126250351/227718279-387700f2-fb43-429a-be81-f02669eb7f2f.png)
-![Screenshot (162)](https://user-images.githubusercontent.com/126250351/227718300-c7778b41-5b28-46df-812c-58dfb10a0637.png)
-![Screenshot (163)](https://user-images.githubusercontent.com/126250351/227718305-7ec2d0f1-b6b4-4d96-9cbd-42271805bd07.png)
-![Screenshot (164)](https://user-images.githubusercontent.com/126250351/227718310-339e3c59-d5f3-445a-8b8d-df9084a3f4bb.png)
-![Screenshot (165)](https://user-images.githubusercontent.com/126250351/227718597-b86a549e-2a5d-4f1d-bd9a-d4ca93a3923e.png)
-![Screenshot (166)](https://user-images.githubusercontent.com/126250351/227718601-ecda7d21-c937-4137-af9a-f6a90011b443.png)
-![Screenshot (167)](https://user-images.githubusercontent.com/126250351/227718606-2b3c40c0-a045-4d64-a656-15f34d8b82cc.png)
+
+![1_Azure_Storage](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/f2078abe-ed88-40f1-9b13-9e08ea471bec)
+![2_Azure_Storage_Container](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/223311d3-bae8-4497-9704-8cffc442dc1e)
+
+![4_Websits_home_page](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/31fe1ef4-7ca8-4780-9d36-dee63499ae86)
+![5](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/d71dfa82-ff8a-4db9-9115-dc572bd0ed8a)
+![6](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/9b73585e-d5d9-4c63-bc34-bd86bc6be67e)
+![7](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/3026b67a-a58b-4023-abd0-8e391854dfcb)
+![8](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/2cb94e50-a181-440d-8372-479b40fcd0d7)
+![9](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/8ac47cf2-3ddb-4219-813a-5d15ebba2a69)
+![10](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/4a71baac-7ec6-4644-b9f5-d1c0fd8522b6)
+![11](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/1f17d1bd-5a33-4401-990c-6ca04387c555)
+![12](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/54fe9456-74ab-4eba-9a14-f7c79a07c890)
+![13](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/112aac5a-7659-42c5-9d46-431ea9e009f3)
 
 
-
-## Demo Video-
-
-
-https://user-images.githubusercontent.com/126250351/227718327-7b1e4603-5448-45a4-80b2-d6258de42940.mp4
-
-## video URL
-https://youtu.be/EkY7jk1PSgY
-
+## Demo Video
+https://ftrproject.blob.core.windows.net/ftr-project/01e3092b-d410-4ed6-b34a-e9b8f7494b66.mp4
 
 ## Web URL-
 https://lively-plant-08607ab10.2.azurestaticapps.net
