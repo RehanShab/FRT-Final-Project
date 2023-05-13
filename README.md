@@ -25,7 +25,7 @@
 
 ![1_Azure_Storage](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/f2078abe-ed88-40f1-9b13-9e08ea471bec)
 ![2_Azure_Storage_Container](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/223311d3-bae8-4497-9704-8cffc442dc1e)
-
+![3_Static_web_aap](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/e4bec934-39bf-4ebc-9ce6-cd9fdc956e0b)
 ![4_Websits_home_page](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/31fe1ef4-7ca8-4780-9d36-dee63499ae86)
 ![5](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/d71dfa82-ff8a-4db9-9115-dc572bd0ed8a)
 ![6](https://github.com/RehanShab/FRT-Final-Project/assets/121599984/9b73585e-d5d9-4c63-bc34-bd86bc6be67e)
@@ -42,6 +42,5 @@
 https://ftrproject.blob.core.windows.net/ftr-project/01e3092b-d410-4ed6-b34a-e9b8f7494b66.mp4
 
 ## Web URL-
-https://lively-plant-08607ab10.2.azurestaticapps.net
-
+https://salmon-wave-0da80ff10.3.azurestaticapps.net
 
